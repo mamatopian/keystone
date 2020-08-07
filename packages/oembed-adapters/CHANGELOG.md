@@ -1,5 +1,19 @@
 # @keystonejs/oembed-adapters
 
+## 5.2.0
+
+### Minor Changes
+
+- [`b663e7f1e`](https://github.com/keystonejs/keystone/commit/b663e7f1ea61c3e9cebb7fe661e4d77e154de6dd) [#3248](https://github.com/keystonejs/keystone/pull/3248) Thanks [@Abogical](https://github.com/Abogical)! - Added a `parameters` config option that allows setting additional request parameters to the url.
+
+  See: https://iframely.com/docs/parameters
+
+### Patch Changes
+
+- [`356dd27da`](https://github.com/keystonejs/keystone/commit/356dd27dab4ee6c89a9381dc92eef9534db52fc0) [#3342](https://github.com/keystonejs/keystone/pull/3342) Thanks [@mitchellhamilton](https://github.com/mitchellhamilton)! - Expose preview component at `@keystonejs/oembed-adapters/views/preview`
+
+* [`356dd27da`](https://github.com/keystonejs/keystone/commit/356dd27dab4ee6c89a9381dc92eef9534db52fc0) [#3342](https://github.com/keystonejs/keystone/pull/3342) Thanks [@mitchellhamilton](https://github.com/mitchellhamilton)! - Change build system from @keystonejs/build-field-types to Preconstruct
+
 ## 5.1.4
 
 ### Patch Changes
